@@ -1,5 +1,11 @@
 # Oraculum: AI-Powered Youtube Automator
-An AI-powered YouTube automation tool that handles script generation, TTS, Image Generation and Video Creation. </p>
+An AI-powered, smart & end-to-end YouTube automation tool that handles script generation, TTS, Image Generation and Video Creation. </p>
+
+It writes engaging scripts, gives them a voice with lifelike TTS, creates stunning visuals using AI, and stitches everything into a complete video—all with minimal input from you.
+Perfect for creators, educators, and anyone looking to scale content without burning out.
+- ✨ Just input a topic.
+- 🧠 Oraculum thinks, speaks, and creates.
+- 📹 You get a polished video, ready to upload.
 
 
 <!-- GETTING STARTED -->
