@@ -20,12 +20,11 @@ Have Python version 3.10 or higher (Recommended)
 
 Install the required packages.
 
-* python
   ```sh
   pip install -m requirements.txt
   ```
 
-<!-- USAGE EXAMPLES -->
+## For example
 
 ### Tortoise TTS
 
@@ -38,7 +37,6 @@ Install the required packages.
 - Create a Gemini API key and paste it in a text file named gemini_secret.txt
 - font.ttf can be replaced with any new font. Default is Montserrat. 
 - If TTS is offline, use it to generate voices. Or follow the instructions given in main.py 
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
